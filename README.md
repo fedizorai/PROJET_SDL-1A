@@ -1,4 +1,4 @@
-PROJET_SDL-1A
+#PROJET_SDL-1A
 PROJET_SDL-1A is a 2D game developed in C using the SDL (Simple DirectMedia Layer) library. This project demonstrates the implementation of a simple yet engaging game, utilizing the power of SDL for handling graphics, events, and user input, while being programmed in C for optimal performance and resource management.
 
 🎮 Overview
