@@ -7,7 +7,7 @@ The project serves as an introduction to game development, emphasizing core conc
 
 🔑 Key Features
 2D Game Environment: Engaging visuals and animations designed with SDL's graphics capabilities.
-User Input Handling: Reacts to keyboard and mouse inputs to control game characters or elements.
+User Input Handling: Reacts to keyboard and mouse inputs to control game characters or elements. 
 Smooth Game Loop: Efficient handling of game logic, including physics and rendering.
 Collision Detection: Detects and responds to interactions between game objects.
 Event-Driven Programming: Implements a reactive model for handling user actions and game events.
