@@ -19,4 +19,4 @@ Event-Driven Programming: Implements a reactive model for handling user actions 
 Programming Language: C
 Game Development Library: SDL (Simple DirectMedia Layer)
 Graphics: SDL_Renderer for drawing and managing 2D graphics
-User Input: SDL_Event for handling keyboard and mouse interactions
+User Input: SDL_Event for handling keyboard and mouse interactions.
